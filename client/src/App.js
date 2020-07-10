@@ -3,7 +3,6 @@ import './App.css';
 import  Nav from 'react-bootstrap/Nav';
 import  Navbar from 'react-bootstrap/Navbar';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { NavItem, Jumbotron } from 'react-bootstrap';
 import HomeTab from '../src/tabs/home';
 import AboutTab from '../src/tabs/about';
 import ContactTab from '../src/tabs/contact';
