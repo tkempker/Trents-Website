@@ -30,6 +30,9 @@ class AboutTab extends React.Component{
                         <Card.Img src={require('../images/experience.jpg')} alt="Card Image" />
                         <Card.ImgOverlay>
                             <Card.Title>Experience</Card.Title>
+                            <Card.Text>BNSF Railway Software Developer Intern | Summer 2019</Card.Text>
+                            <Card.Text>Kansas State Computer Science Research Developer | Sumemer 2018</Card.Text>
+                            <Card.Text>Technologies/Languages: C#, Java, C, SQL, JavaScript, HTML 5, React, Angular, Node.js, GitHub</Card.Text>
                         </Card.ImgOverlay>
                     </Card>
                 </div>
@@ -39,6 +42,9 @@ class AboutTab extends React.Component{
                         <Card.Img src={require('../images/hobbies.jpg')} alt="Card Image" />
                         <Card.ImgOverlay>
                             <Card.Title>Hobbies</Card.Title>
+                            <Card.Text>Outdoor Activities (Hiking, Biking, etc.)</Card.Text>
+                            <Card.Text>Playing/Watching Sports</Card.Text>
+                            <Card.Text>Watching good movies/TV shows</Card.Text>
                         </Card.ImgOverlay>
                     </Card>
                 </div>
